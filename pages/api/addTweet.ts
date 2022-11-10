@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import { TweetBody } from "../../typings";
+import { TweetBody } from "../../typing";
 type Data = {
   message: string;
 };

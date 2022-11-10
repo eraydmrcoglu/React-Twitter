@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import { CommentBody } from "../../typings";
+import { CommentBody } from "../../typing";
 
 type Data = {
   message: string;
